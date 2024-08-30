@@ -5,9 +5,9 @@ This repository contains the source code for the "Memory Game".
 You can view the live site here: https://memory-game-flip-cards.netlify.app
 
 ## Technologies Used
-HTML5: For structuring the web content.
-TailwindCSS: For styling with a utility-first approach, using CLI for setup.
-JavaScript: For game logic, including flipping cards, matching pairs.
+#### HTML5: For structuring the web content.
+#### TailwindCSS: For styling with a utility-first approach, using CLI for setup.
+#### JavaScript: For game logic, including flipping cards, matching pairs.
 ## Deployment
 This site is deployed on Netlify. Every push to the main branch automatically triggers a new deployment.
 
